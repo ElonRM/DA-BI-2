@@ -1,0 +1,36 @@
+Die Stakeholder sollen in Ihrem Projektbericht, der durch ein Jupyter-Notebook gestützt werden soll, 
+Antworten auf die unten dargestellten konkreten Fragen (Kapitel 3.2) sowie weitere Informationen, 
+die für ihre oben formulierten allgemeinen Ziele relevant sind, erhalten
+
+Projektbericht soll Ihre Kernerkenntnisse aus den Analysen enthalten und 
+jeweils auf die entsprechenden Passagen im Jupyter-Notebook referenzieren
+Analysen im Text leicht verständlich, im Code im Detail nachvollziehbar.
+
+Business Dashboard für die Disposition“ mit PowerBI umsetzen
+
+Konkrete Fragen:
+- Personalabteilung
+(1) Prüfen Sie, ob ein Zusammenhang zwischen dem Trinkgeldgeben und dem Vorhandensein 
+    eines der folgenden Produkte in einer Bestellung existiert: 24852, 24964, 2120.
+(2) Lassen sich regionale Unterschiede im Trinkgeldverhalten erkennen?
+(3) Welche Attribute einer Bestellung wirken sich auf das Trinkgeldverhalten aus?
+(4) Spielt die Vergangenheit eines Users eine Rolle in Hinblick auf die 
+    Trinkgeldwahrscheinlichkeit, oder kommt es nur auf Inhalt und Parameter der 
+    aktuellen Bestellung an?
+
+-Disposition
+(1) Prüfen Sie, ob es beim Produkt 13176 auffällige Muster beim Wiederbestellverhalten gibt.
+(2) Spielen die Artikel aus dem Department „produce“ in allen Counties eine gleich große Rolle?
+(3) Welche Counties sind sich ähnlich in Hinblick auf die jeweiligen „Top 10“-Produkte?
+
+Aufgaben zur Disposition
+(1) Nutzen des Jupyter Notebooks, um räumliche Unterschiede im Hinblick auf Produktkategorien 
+    („departments“), Gänge („aisles“) oder auch umsatzstarke Produkte zu ermitteln.
+(2) Ihre Analysen des aktuellen Stands in den Daten sollen der Disposition erlauben, die 
+    Distributionszentren der Counties im Hinblick auf „besondere“ Produkte/Gänge/Kategorien 
+    besser zu versorgen. Statische Analyse, keine zeitliche Veränderung oder Prognosen <- möglich.
+(3) Erarbeiten Sie aus Ihren Erkenntnissen Handlungsempfehlungen für die Disposition, anhand 
+    derer eine bessere Versorgung der einzelnen Counties erreicht werden kann.
+    Es dürfen Annahmen getroffen werden, welche aber gekennzeichent werden müssen.
+
+
