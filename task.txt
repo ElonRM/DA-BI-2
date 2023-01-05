@@ -1,3 +1,10 @@
+DataFrame columns:
+'order_id', 'product_id', 'add_to_cart_order', 'reordered', 'user_id',
+'order_number', 'order_dow', 'order_hour_of_day',
+'days_since_prior_order', 'tip', 'product_name', 'aisle_id',
+'department_id', 'department', 'aisle', 'county'
+
+
 Die Stakeholder sollen in Ihrem Projektbericht, der durch ein Jupyter-Notebook gestützt werden soll, 
 Antworten auf die unten dargestellten konkreten Fragen (Kapitel 3.2) sowie weitere Informationen, 
 die für ihre oben formulierten allgemeinen Ziele relevant sind, erhalten
