@@ -33,7 +33,7 @@ Konkrete Fragen:
 Aufgaben zur Disposition
 (1) Nutzen des Jupyter Notebooks, um räumliche Unterschiede im Hinblick auf Produktkategorien 
     („departments“), Gänge („aisles“) oder auch umsatzstarke Produkte zu ermitteln.
-(2) Ihre Analysen des aktuellen Stands in den Daten sollen der Disposition erlauben, die 
+    Ihre Analysen des aktuellen Stands in den Daten sollen der Disposition erlauben, die 
     Distributionszentren der Counties im Hinblick auf „besondere“ Produkte/Gänge/Kategorien 
     besser zu versorgen. Statische Analyse, keine zeitliche Veränderung oder Prognosen <- möglich.
 (3) Erarbeiten Sie aus Ihren Erkenntnissen Handlungsempfehlungen für die Disposition, anhand 
