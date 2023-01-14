@@ -20,7 +20,7 @@ Konkrete Fragen:
 FERTIG (1) Prüfen Sie, ob ein Zusammenhang zwischen dem Trinkgeldgeben und dem Vorhandensein 
     eines der folgenden Produkte in einer Bestellung existiert: 24852, 24964, 2120.
 FERTIG (2) Lassen sich regionale Unterschiede im Trinkgeldverhalten erkennen?
-!!TODO!! (3) Welche Attribute einer Bestellung wirken sich auf das Trinkgeldverhalten aus?
+reordered? (3) Welche Attribute einer Bestellung wirken sich auf das Trinkgeldverhalten aus?
 FERTIG (4) Spielt die Vergangenheit eines Users eine Rolle in Hinblick auf die 
     Trinkgeldwahrscheinlichkeit, oder kommt es nur auf Inhalt und Parameter der 
     aktuellen Bestellung an?
@@ -29,6 +29,8 @@ FERTIG (4) Spielt die Vergangenheit eines Users eine Rolle in Hinblick auf die
 FERTIG (1) Prüfen Sie, ob es beim Produkt 13176 auffällige Muster beim Wiederbestellverhalten gibt.
 FERTIG (2) Spielen die Artikel aus dem Department „produce“ in allen Counties eine gleich große Rolle?
 Visualisierung des Ergebnis(3) Welche Counties sind sich ähnlich in Hinblick auf die jeweiligen „Top 10“-Produkte?
+!!! vielleicht als Bubble Plot
+!!! Sunburst chart noch hinzufügen
 
 Aufgaben zur Disposition
 !!TODO!!(1) Nutzen des Jupyter Notebooks, um räumliche Unterschiede im Hinblick auf Produktkategorien 
