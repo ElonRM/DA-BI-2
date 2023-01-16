@@ -19,7 +19,7 @@ Konkrete Fragen:
 - Personalabteilung
 FERTIG (1) Prüfen Sie, ob ein Zusammenhang zwischen dem Trinkgeldgeben und dem Vorhandensein 
     eines der folgenden Produkte in einer Bestellung existiert: 24852, 24964, 2120.
-FERTIG (2) Lassen sich regionale Unterschiede im Trinkgeldverhalten erkennen?
+!!!! overperform/underperform (2) Lassen sich regionale Unterschiede im Trinkgeldverhalten erkennen?
 reordered? (3) Welche Attribute einer Bestellung wirken sich auf das Trinkgeldverhalten aus?
 FERTIG (4) Spielt die Vergangenheit eines Users eine Rolle in Hinblick auf die 
     Trinkgeldwahrscheinlichkeit, oder kommt es nur auf Inhalt und Parameter der 
